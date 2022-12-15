@@ -97,4 +97,4 @@ _이텔릭_
 
 ### 원시 HTML(Raw HTML)
 
-<img src ='images/winter.jfif' alt='naver'>
+<img src ='images/winter.jfif' alt='espa'>
