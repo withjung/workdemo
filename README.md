@@ -87,3 +87,7 @@ _이텔릭_
 [link](a.txt)
 
 다음 홈페이지 : <http://www.daum.net/>
+
+### 이미지(images)
+
+![naver](https://search.pstatic.net/common/?src=http%3A%2F%2Fimgnews.naver.net%2Fimage%2F5247%2F2022%2F11%2F18%2F0000024425_001_20221118133201576.jpg&type=a340)
